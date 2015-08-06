@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-02-07T14:30:55Z</date>
+	<key>Application Version</key><string>12.1.0.50</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/ken/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>DB812F713EFE0338</string>
+	<key>Tracks</key>
+	<dict>
+		<key>117</key>
+		<dict>
+			<key>Track ID</key><integer>117</integer>
+			<key>Name</key><string>Aqua (20130510_tokyo_metropolitan_theatre)</string>
+			<key>Artist</key><string>Ryuichi Sakamoto</string>
+			<key>Album Artist</key><string>Ryuichi Sakamoto</string>
+			<key>Album</key><string>Ryuichi Sakamoto l Playing the Orchestra 2013</string>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+		</dict>
+		<key>119</key>
+		<dict>
+			<key>Track ID</key><integer>119</integer>
+			<key>Name</key><string>After All (20130510_tokyo_metropolitan_theatre)</string>
+			<key>Artist</key><string>Ryuichi Sakamoto</string>
+			<key>Album Artist</key><string>Ryuichi Sakamoto</string>
+			<key>Composer</key><string>Ryuichi Sakamoto</string>
+			<key>Album</key><string>Ryuichi Sakamoto l Playing the Orchestra 2013</string>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Release Date</key><date>2013-12-11T08:00:00Z</date>
+			<key>Purchased</key><true/>
+			<key>Visible</key><false/>
+		</dict>
+		<key>297</key>
+		<dict>
+			<key>Track ID</key><integer>297</integer>
+			<key>Name</key><string>The Good Timing of World of Love Song</string>
+			<key>Artist</key><string>Yoshinori Sunahara</string>
+			<key>Album</key><string>TAKE OFF AND LANDING</string>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ライブラリ</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>339</integer>
+			<key>Playlist Persistent ID</key><string>1BA3F375D75CD563</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>257</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>ミュージック</string>
+			<key>Playlist ID</key><integer>453</integer>
+			<key>Playlist Persistent ID</key><string>75F81565FC990D99</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>257</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>ムービー</string>
+			<key>Playlist ID</key><integer>573</integer>
+			<key>Playlist Persistent ID</key><string>90D7151759DA6C4F</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>テレビ番組</string>
+			<key>Playlist ID</key><integer>579</integer>
+			<key>Playlist Persistent ID</key><string>93C2810DCB984C8C</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcast</string>
+			<key>Playlist ID</key><integer>582</integer>
+			<key>Playlist Persistent ID</key><string>69C72AABADCF3A7B</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>iTunes U</string>
+			<key>Playlist ID</key><integer>589</integer>
+			<key>Playlist Persistent ID</key><string>A33117EF33BB6D83</string>
+			<key>Distinguished Kind</key><integer>31</integer>
+			<key>iTunesU</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>オーディオブック</string>
+			<key>Playlist ID</key><integer>595</integer>
+			<key>Playlist Persistent ID</key><string>8024CDD7D3E98D0E</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>購入した項目</string>
+			<key>Playlist ID</key><integer>607</integer>
+			<key>Playlist Persistent ID</key><string>8BCEA65754A970FB</string>
+			<key>Distinguished Kind</key><integer>19</integer>
+			<key>Purchased Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>90 年代ミュージック</string>
+			<key>Playlist ID</key><integer>656</integer>
+			<key>Playlist Persistent ID</key><string>61CDF9CC2886BBBA</string>
+			<key>Distinguished Kind</key><integer>200</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>337</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>クラシック音楽</string>
+			<key>Playlist ID</key><integer>667</integer>
+			<key>Playlist Persistent ID</key><string>34836A7DD20BEE45</string>
+			<key>Distinguished Kind</key><integer>206</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>トップ 25</string>
+			<key>Playlist ID</key><integer>670</integer>
+			<key>Playlist Persistent ID</key><string>8975EEB117F2504F</string>
+			<key>Distinguished Kind</key><integer>202</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>293</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>トップレート</string>
+			<key>Playlist ID</key><integer>698</integer>
+			<key>Playlist Persistent ID</key><string>EAFCB698DEDBD3CB</string>
+			<key>Distinguished Kind</key><integer>201</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>最近再生した項目</string>
+			<key>Playlist ID</key><integer>701</integer>
+			<key>Playlist Persistent ID</key><string>309794B1BEA5EEA1</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>最近追加した項目</string>
+			<key>Playlist ID</key><integer>719</integer>
+			<key>Playlist Persistent ID</key><string>FAAE2E740E08619A</string>
+			<key>Distinguished Kind</key><integer>204</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+	</array>
+</dict>
+</plist>
