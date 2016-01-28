@@ -8,7 +8,7 @@ You can get whole tracks, playlists, artists, and more from your iTunes library 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'itunes_library_parser', git: 'git://github.com/tongpoo/itunes_library_parser.git'
+gem 'itunes_library_parser', git: 'git://github.com/nakahashi/itunes_library_parser.git'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ And then execute:
 Or install it yourself as:
 
     $ gem install specific_install
-    $ gem specific_install -l 'git://github.com/tongpoo/itunes_library_parser.git'
+    $ gem specific_install -l 'git://github.com/nakahashi/itunes_library_parser.git'
 
 ## Usage
 
